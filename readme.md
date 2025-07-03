@@ -2,6 +2,8 @@
 
 This project is a simple web page that uses the **Fetch API** to retrieve and display user data from a public API (`https://jsonplaceholder.typicode.com/users`). It demonstrates the use of asynchronous JavaScript, JSON parsing, and error handling in a real-world use case.
 
+### If you want to direct check this then goto https://shivam-070208.github.io/elevatelabstask7/
+
 ---
 
 ## 📌 Features
